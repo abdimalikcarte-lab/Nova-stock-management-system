@@ -1,0 +1,1 @@
+# Nova-stock-management-system
